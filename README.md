@@ -3,4 +3,4 @@ Learning Git-Hub
 
 Hi All,
 
-This is the readme file for the project
+This is the README file for the project
